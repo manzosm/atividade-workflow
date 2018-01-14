@@ -1,0 +1,12 @@
+active{
+ display:block;
+ padding:10px;
+ 
+ &:hover{
+ background:red;
+ }
+ 
+ &:active{
+ background:blue;
+ }
+}

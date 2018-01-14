@@ -1,0 +1,14 @@
+$fundo-padrao: #ff0000;
+$margem-padrao: 1.3em;
+$padding-padrao: 20px;
+ 
+body{
+ background: $fundo-padrao;
+}
+p{
+ margin: 0 0 $margem-padrao 0;
+}
+.box{
+ padding: $padding-padrao;
+}
+
